@@ -1,9 +1,10 @@
 fastai
 torch
 torchvision
+datasets
 scikit-learn
-numpy
 pandas
+numpy
 matplotlib
 Pillow
 datasets
